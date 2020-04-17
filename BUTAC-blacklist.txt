@@ -1,7 +1,6 @@
 #Siti di pseudoscienza
 #Siti che propongono esperimenti, invenzioni, trattamenti che non hanno alcuna valenza scientifica o con evidenze non sufficienti
 
-alfredolio.wordpress.com
 aprilamente.info
 www.dionidream.com
 disquisendo.wordpress.com
@@ -16,6 +15,6 @@ www.pianetablunews.it
 saltoquantico.org
 www.scienzaeconoscenza.it
 www.segnidalcielo.it
-alfredolio.wordpress.com
+alfredolio.wordpress.com #Science News Live
 
 #Blog di pseudoscienza
