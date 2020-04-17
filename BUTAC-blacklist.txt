@@ -92,19 +92,22 @@ condividilo.org
   #chiuso
 controinformo.info
 corrieredisera.it
-Coscienza Italiana
-Cronaca Ora
-Curiosandoonline.com
-Curiosity2013
-Direttanews.it
-Direttanews24.com
-Divieto.reattivonews.com
-Eco Tricolore
-Essere Informati (essere-informati.it)
-Eticamente
-fenixx.org
-Funvideosonline.info
-Futuro a cinque stelle. Altervista
+cronacaora.it
+  #chiuso
+curiosandoonline.com
+  #chiuso
+www.direttanews.it
+www.direttanews24.com
+divieto.reattivonews.com
+  #chiuso
+www.essere-informati.it
+www.eticamente.net
+fenixwordpresscom.wordpress.com
+  #chiuso
+funvideosonline.info
+  #chiuso
+futuroacinquestelle.altervista.org
+  #chiuso
 Gazzetta24.com
 Gazzettanews24.com
 Giornale24ore.com
