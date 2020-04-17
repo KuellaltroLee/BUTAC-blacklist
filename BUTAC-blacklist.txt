@@ -2,4 +2,5 @@
 #Siti che propongono esperimenti, invenzioni, trattamenti che non hanno alcuna valenza scientifica o con evidenze non sufficienti
 
 0.0.0.0 aprilamente.info
-
+0.0.0.0 cosmofruttariano3m.altervista.org
+0.0.0.0 curiosityalive.altervista.org
