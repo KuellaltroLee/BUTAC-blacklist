@@ -16,20 +16,25 @@ www.pianetablunews.it
 saltoquantico.org
 www.scienzaeconoscenza.it
 www.segnidalcielo.it
-alfredolio.wordpress.com              #Science News Live
+alfredolio.wordpress.com
+  #Science News Live
 
 
 #Blog di pseudoscienza
 
 cosmofruttariano3m.altervista.org
-curiosityalive.altervista.org         #chiuso
+curiosityalive.altervista.org
+  #chiuso
 ecocreando.weebly.com
 guarireoggi.blogspot.it
 ilrisvegliodellamente.altervista.org
 www.ingannati.it
-lastella.altervista.org               #chiuso
-paradisefruit.altervista.org          #chiuso
-realscience.altervista.org            #chiuso
+lastella.altervista.org
+  #chiuso
+paradisefruit.altervista.org
+  #chiuso
+realscience.altervista.org
+  #chiuso
 thecancermagazine.blogspot.it
 thedayafter2012.blogspot.com
 
@@ -46,11 +51,13 @@ www.effervescienza.com
 www.eurosalus.com
 www.informasalus.it
 www.laleva.org
-mammainrete.blogspot.com                #abbandonato, ultimo post 24/11/2017
+mammainrete.blogspot.com
+  #abbandonato, ultimo post 24/11/2017
 www.medicinenon.it
 mednat.news
 www.nuovamedicinagermanica.it
-www.prevenzioneatavola.it               #ex LaFucina.it
+www.prevenzioneatavola.it
+  #ex LaFucina.it
 www.vacciniinforma.com
 www.vivoinsalute.com
 
@@ -59,4 +66,425 @@ www.vivoinsalute.com
 #In questa black list figurano siti che usano il linguaggio giornalistico per scrivere articoli spesso basati sul nulla che portino acqua al loro mulino, qualunque esso sia. Può trattarsi di politica, religione, ideali.
 #Sono siti che fanno male, perché molti di quelli che li leggono sono li in quanto affini come idee, e non riescono a distinguere tra notizie reali e notizie alimentate solo dal tifo per questa o l’altra fazione, oppure copiano notizie da fonti non affidabili senza fare nessuna verifica.
 
+24orenotizie.com
+  #chiuso
+www.5stellenews.com
+actiionweb.com
+www.agenews.eu
+www.all-news.tv
+AllNews24.eu
+Attacco Mirato (attaccomirato.com)
+Attivonews
+Blog News 24 ore (blognews24ore.com)
+Breaknotizie.com
+ByoBlu
+Catena Umana (catenaumana.com)
+Chesuccede.it
+Clicknotizie.it
+ComeDonChisciotte (.org)
+Condividilo.org
+Controinformo .info
+Corrieredisera.it
+Coscienza Italiana
+Cronaca Ora
+Curiosandoonline.com
+Curiosity2013
+Direttanews.it
+Direttanews24.com
+Divieto.reattivonews.com
+Eco Tricolore
+Essere Informati (essere-informati.it)
+Eticamente
+fenixx.org
+Funvideosonline.info
+Futuro a cinque stelle. Altervista
+Gazzetta24.com
+Gazzettanews24.com
+Giornale24ore.com
+il-giornale.info
+Giornale Il Sole (giornaleilsole.com)
+Il Giornale Italiano (ilgiornaleitaliano.it)
+Il Giornale News (ilgiornalenews.com)
+globo365.info
+Grande Cocomero
+Guarda.link
+Guarda.one
+HowTodOfOr.com
+Iconicon
+Il bello che avanza (ilbellocheavanza.com)
+Il Faro Sul Mondo
+Il Fattaccio
+Il Fatto dal Web (ilfattodalweb.com)
+Il Giornale News.com
+Ilmeglio-delweb.it
+IlMovimentoVaAvanti (.altervista.org)
+Il Nord
+il Notiziario24.com
+Il Patriota
+Il Populista
+Il Primato Nazionale
+Il quotidiano (il-quotidiano.info)
+I migliori (imigliori.info)
+Imigliorivideo.co
+ImolaOggi
+Incazzati contro la casta
+InformareXResistere
+Informatitalia
+Informazionelibera.eu
+Interagisco.net
+Italiani-informati.com
+Iozummo.com
+Irresponsabile.com
+Italia Hot Spot
+Italiainmovimento.it
+italia.imigliori.org
+Italianotizie24.eu
+Italiapatriamia.eu
+Italianosveglia.com
+Italia Rialzati (italiarialzati.com)
+Jeda News, l’informazione alternativa
+Kevideo.eu
+La Gazzetta della sera
+La Repubbica.it
+La Repubblica.info
+Lastnews24h.com
+Last-webs.com
+Leggimiora.com
+Libero-notizie.com
+LiberoGiornale.com
+Linktoday.it
+L’infilitrato (infiltrato.it)
+LiveWebIt.com
+L’olandese volante (lolandesevolante.net)
+Lo Sai (e tutti i suoi corollari)
+Lonesto.it
+Mafia Capitale
+Mattino.ch
+Messaggiero.com
+Morasta.it
+Movimento Base Italia
+Newscronaca.it
+Newsitalys.com
+News24roma
+News24italia
+NoCensura
+NoInvasione.com
+Notixonline.com
+Notixweb.com
+Notizie24h.net
+Notizieflash.eu
+Notizieregionali.com
+Notiziespericolate.com
+Nuovo Illuminismo
+Notizie dal web
+Notizie Ora
+Oh Mia Italia
+Oggi 24 ore (oggi24ore.altervista.org)
+Ora Zero
+Pandapazzo
+Parola di Iugo
+Perdavvero.com
+PioveGovernoLadro.info
+politikstube.com
+Rainews24.live
+Rassegnastampa.eu
+Rec news
+Reattivonews.com
+Repubblica24.com
+Ribelli.eu
+Riscatto Nazionale
+Rischio Calcolato (rischiocalcolato.it)
+Rivoluzione ora o mai piu (rivoluzioneoraomaipiu.com)
+Robadapazzi.com
+Sapere è un dovere (sapereeundovere.com)
+Saper-link-news.com
+Segreto di Stato (segretodistato.com)
+Semplici pensieri (semplicipensieri.com)
+SenzaCensura
+Siamo La Gente
+Siamo rimasti soli (siamorimastisoli.com)
+Signoraggio.it
+Silenzi e falsità (silenziefalsita.it)
+Skynew.it
+Skytg24news.com
+Socialbuzz.it
+Socialnotixweb
+Solo Italiani (soloitaliani.com)
+Sostenitori.info
+Sputtaniamotutti.reattivonews.org
+Stopeuro.org
+Succede Nel Mondo (succedenelmondo.com)
+Supernotizie.net
+The Tonic Express (thetonicexpress.com)
+tg24-ore.com
+Tg24italia.com
+tg-news24.com
+tg-quotidiano.net
+Tg5stelle.it
+Tgcom24news.com
+TicinoLive
+Tutti i crimini degli immigrati (tuttiicriminidegliimmigrati.com)
+Tutto24.info
+Tuttoinweb.com
+Ultimora24.it
+Videoenotizie.it
+Videoviraliweb.com
+Vocedelweb.com
+VoxNews
+You Net Spiegalevele
+Web-news24.com
+Webitalia360.com
+Webtg24.com
+Wow che video
+Zapping2017
+Zona Grigia news (zonagrigianews.com)
 
+
+I blog di pseudogiornalismo
+
+5ideeinmovimento.blogspot.it
+aidaa-animaliambiente.blogspot.it
+albainternazionale.blogspot.it
+attivistam5snews.blogspot.it
+benitomussolini.altervista.org
+blogdieles2.altervista.org
+blogdieles.altervista.org
+bloginmovimento.altervista.org
+blogopenyoureyes.altervista.org
+controinformo.altervista.org
+corrieredelmattino.altervista.org
+cvdiariodelpollinho.altervista.org
+direttainfo.blogspot.it
+direttanfo.blogspot.it
+essenzialmentedonna.altervista.org
+europeannews.altervista.org
+facebooknotizia.altervista.org
+ilbazarinformazione.blogspot.it
+ilmessagero.altervista.org
+ilradicale.altervista.org
+informare.over-blog.it
+informazionebycuriosity.altervista.org
+jedasupport.altervista.org
+lacucinasiciliana.altervista.org
+lapillolarossa15.altervista.org
+newstime24.altervista.org
+nessuna-censura.com
+notiziaitalica.altervista.org
+notiziarioeuropeo.altervista.org
+notiziariosegreto.wordpress.com
+notizieinmovimentonews.blogspot.it
+politicanews.altervista.org
+ripuliamolitalia.altervista.org
+rollingston.altervista.org
+sadefenza.blogspot.it
+siamorimastisoli.today
+tg24h.altervista.org
+tg24notizie.altervista.org
+webnotice.altervista.org
+webnews24h.it
+zapping2017.myblog.it
+I siti di meteoterrorismo
+
+centrometeoitaliano.it
+ilmeteo.it
+I siti di notizie virali
+
+Questi siti raccolgono video e notizie divertenti. Sembra che non facciano niente di male, ma al loro interno troviamo anche notizie di cronaca e politica che possono diventare velocemente virali e che hanno tutte le caratteristiche della bufala. I video divertenti sono una cosa, l’informazione e il giornalismo tutt’altra. Tenersi informati su siti del genere è da evitare.
+
+realfunny.info
+siamonapoletani.org
+videoenotizie.it
+videoscoop.info
+viralmagazine.it
+yeslife.it
+I siti di pseudosatira
+
+Le pagine di questa lista presentano un disclaimer che avverte che, trattandosi di siti satirici, le notizie potrebbero non corrispondere alla realtà. I disclaimer però si stanno facendo sempre più invisibili e, soprattutto, la satira viene usata come scusa per inventare e diffondere notizie che di satirico non hanno assolutamente niente.
+
+Corriere della Pera
+Il Fato Quotidiano [ATTENZIONE! Dopo aver visitato il loro sito, probabilmente a causa di uno script nascosto nella pagina, ci si ritrova iscritti a pagine Facebook che condividono esclusivamente loro link, in questo caso /LinkPerTuttiDaCondividere (162mila likes) e /Madòòò-362666660509515 (80mila likes)]
+Il Fatto Quotidaino [stessa cosa del Fato Quotidiano, ma con altre pagine ad esempio/VideoNewsFan]
+Il mAssaggero
+La Nozione [stessa cosa del Fato Quotidiano, ma con altre pagine ad esempio /notizienonsolo]
+I siti complottisti
+
+Le pagine in questa black list credono in una o l’altra teoria del complotto, dando per scontato che quello che dice l’informazione mainstream sia falso. Non ho ancora capito se le menti dietro queste pagine siano “complici” di chi queste teorie se l’è inventate a scopo di lucro o se siano solo altri “truffati”)
+
+Attiviamociconspiracy-theory
+Conoscenzealconfine.it
+Complottisti. info
+Disinformazione.it
+ECPlanet
+Effervescienza.com
+Filosofia e Logos (filosofiaelogos.it)
+Hack The Matrix
+Il Navigatore Curioso (ilnavigatorecurioso.it)
+Il Punto sul Mistero (ilpuntosulmistero.it)
+Libreidee
+Liberamenteservo.com
+Loguardoconte
+Luogocomune
+Misteri d’Italia
+Mistero
+New Apocalypse
+NoGeoIngegneria.com
+Nibiru2012.it
+Pandora TV
+Tactical Media Crew
+Tanker Enemy
+Terra Real Time (terrarealtime.blogspot.com)
+The Tonic Express
+Un Universo – un mondo migliore (ununiverso.it)
+USA Crimes
+I blog complottisti
+
+accademiadellaliberta.blogspot.it
+alcyonpleiadi.blogspot.it
+altrarealta.blogspot.it
+appunti2008.blogspot.it
+aurorasito.wordpress.com
+compressamente.blogspot.it
+controinformoblog.altervista.org
+cortesovrana.it
+delta-leveritanascoste.blogspot.it
+freeondarevolution.blogspot.it
+ilnuovomondodanielereale.blogspot.it
+ilsapereepotere.blogspot.it
+ilsapereepotere2.blogspot.com
+jhwhinri.blogspot.it
+laveritadininconaco.altervista.org
+madreterra.myblog.it
+mondonews1.blogspot.it
+neovitruvian.wordpress.com
+notiziedalpopolo.altervista.org
+nwonuovoordinemondiale.wordpress.com
+olivieromannucci.blogspot.it
+paoloferrarocdd.blogspot.it
+pianetax.wordpress.com
+presadicoscienza.altervista.org
+questaitalia.wordpress.com
+raggioindaco.wordpress.com
+sitoaurora.wordpress.com
+Su la testa – Gianni Lannes
+Tanker Enemy – blog
+tankerenemymeteo.blogspot.it
+terrarealtime.blogspot.com
+terrarealtime2.blogspot.com
+ununiverso.altervista.org
+veritanwo.altervista.org
+younetspiegalevele.altervista.org
+wwwblogdicristian.blogspot.it
+Pagine che pubblicano bufale per incrementare le visite
+
+Queste sono pagine per cui mi dispiace di più, sono pagine che nascono come testate giornalistiche, danno lavoro anche a ragazzi in gamba ma per aumentare il traffico sfruttano il giochino di pubblicare le notizie inventate della prossima categoria, e poi – a volte- pubblicarne la smentita qualche giorno dopo, questo è grave perché è davvero solo un modo per fare cassetto, modo triste, i lettori ce li si deve guadagnare con passione, non con questi trucchetti)
+
+VNews24
+AttivoTv
+Kontrokultura
+Viral Magazine
+Ho rimosso una delle tre in quanto ultimamente non mi viene più segnalata. Ma sto sull’attenti nel controllarla. sia mai ricadano nella mal pratica!
+Le notizie inventate
+
+Queste non ve le linko: ogni giorno ne nascono di nuove, alcune sono divertenti, altre meno, quasi tutte specificano la loro natura satirica o il fatto che le news raccontate non hanno fondamento, tristemente aumentano il “lavoro” mio e degli altri debunker italiani in maniera esponenziale, riducendo il tempo dedicato alle cose serie, se le notizie che mi chiedete di sbufalare vengono da qui, state sicuri, sono bufale.
+
+Dangerous News/Notizie pericolose
+Corriere del mattino
+Corriere della Notte
+Corriere del Corsaro
+Chiave Orgonica
+Il Giomale
+IoVivoaRoma
+Lo Specchio
+Salute360Gradi
+Il Matto quotidiano
+La gazzetta della sera
+Pagine Facebook
+
+24ore (/info24ore)
+24H Italia News
+A chi sacciu
+Adesso fuori dai coglioni
+Aprite gli occhi
+Autismo e Vaccini
+Avvistamenti di Creature Mitologiche
+Azione di popolo
+Banda Bassotti
+Catena Umana
+Come i treni a vapore
+Contro i poteri forti
+Contro la Massoneria e gli Illuminati
+Cose che nessuno ti dirà di nocensura.com
+CrimeNews (/mafiacapitale.info)
+CSSC – Cieli Senza Scie Chimiche
+Dis-apprendere
+Dirby (no rules)
+Eclissi Sociale official fanpage
+Eco(R)esistenza
+Giornale Today (/GiornaleToday)
+Gruppo ‘gnazzzio
+Informati (/informatitalia)
+IO VI Spengo
+Italia Malata
+Italia Patria Mia
+Italiani Compatti I
+Killuminati Soldiers
+John Koenig Mb Koenig
+L’alimentazione e gli illuminati
+L’antipolitica
+La Casta
+La Vera Italia
+La Verità ci Rende Liberi
+Le notizie che non ti aspetti
+Libera Informazione online (liberainformazioneonline.com)
+Mafia Capitales (/whatsappecultura)
+Movimento anti NWO
+MscNews
+Neovitruvian
+Nessuno tocchi la libera informazione
+News in Movimento dal Web
+News Time 24
+NO alla dittatoriale Unione Europea e al Nuovo Ordine Mondiale
+Notiziario (/notiziario.face)
+Notizie live
+Quello che i TG non dicono
+Questa è L’ Italia
+Questa è l’Italia di oggi
+Rimani informato
+Rothschild: la Bestia che domina il mondo
+Scienza di confine
+Segreto di Stato
+Se ti fai un’altra birra la prima non s’incazza
+Sinistra Cazzate e Libertà
+SocialTv Network (/websocialtv)
+Sono senza parole
+Sovranità Monetaria & Debito Pubblico
+Sputtaniamotutti.com
+Stop alle scie chimiche
+Suona e scappa
+The-Black-Now
+Tutto avra’ senso
+Ultimissime
+Un male tutto italiano, questo regime è una vera piaga sociale
+Uniti in piazza
+Uso il sarcasmo perché uccidere è illegale
+V per vera informazione
+Vaccini Basta
+Web curioso
+Zona grigia
+…e mille altre. Stare dietro a tutte le pagine fuffare su Facebook è veramente difficile!
+Canali YouTube
+
+Accademia della Libertà
+Apriamo gli occhi
+Fabio Netzach (/fabiobettiol777)
+Igienista Mentale (/igienistamentale)
+InfoClub88
+Informare Per Resistere
+La Finanza sul Web
+La Verità ci rende Liberi
+La verità presente
+Redazione Segnidalcielo
+Rosario Marcianò (/tankerenemy)
+SocialTv
+tommix (/tommix73)
+VS Ora Basta
