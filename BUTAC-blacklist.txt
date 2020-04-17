@@ -71,20 +71,27 @@ www.vivoinsalute.com
 www.5stellenews.com
 actiionweb.com
 www.agenews.eu
+  #chiuso
 www.all-news.tv
-AllNews24.eu
-Attacco Mirato (attaccomirato.com)
-Attivonews
-Blog News 24 ore (blognews24ore.com)
-Breaknotizie.com
-ByoBlu
-Catena Umana (catenaumana.com)
-Chesuccede.it
-Clicknotizie.it
-ComeDonChisciotte (.org)
-Condividilo.org
-Controinformo .info
-Corrieredisera.it
+  #chiuso
+www.allnews24.eu
+attaccomirato.com
+  #chiuso
+attivo.news
+blognews24ore.com
+www.breaknotizie.com
+www.byoblu.com
+www.catenaumana.com
+  #chiuso
+www.catenaumana.it
+  #chiuso
+www.chesuccede.it
+www.clicknotizie.it
+comedonchisciotte.org
+condividilo.org
+  #chiuso
+controinformo.info
+corrieredisera.it
 Coscienza Italiana
 Cronaca Ora
 Curiosandoonline.com
@@ -188,6 +195,7 @@ PioveGovernoLadro.info
 politikstube.com
 Rainews24.live
 Rassegnastampa.eu
+www.rassegneitalia.info
 Rec news
 Reattivonews.com
 Repubblica24.com
